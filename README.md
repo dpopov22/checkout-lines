@@ -48,11 +48,4 @@ finished customer list.
 
 I found that running the simulations with a range of 1-10 items per customer was too big of a range because 
 the lines would become unmanageable. I found that any number less than or equal to 7 seemed to be manageable 
-so the lines would not get too long. My statistics, which are shown below, and include a new type of customer 
-that chose a line based on the number of items in the line, which took a very long time. The customer with the 
-fastest time seemed to be the Pick 2 Customer, following with Random, then Picky, and then the customer that 
-I called "Large Customer." These results make sense, as it takes more time steps for a customer to pick the 
-shortest line because they have to review all of the lines before choosing one. The random one took the shortest 
-amount of time for choosing, but ultimately took longer because there was a high risk of being in a longer line. 
-The Pick 2 customer was very efficient because it used a combination of Random and Picky, taking only two time steps 
-to choose a line and then picking the shortest one out of those two. 
+so the lines would not get too long. The customer with the fastest time seemed to be the Pick 2 Customer, following with Random, then Picky, and then the customer that I called "Large Customer." These results make sense, as it takes more time steps for a customer to pick the shortest line because they have to review all of the lines before choosing one. The random one took the shortest amount of time for choosing, but ultimately took longer because there was a high risk of being in a longer line. The Pick 2 customer was very efficient because it used a combination of Random and Picky, taking only two time steps to choose a line and then picking the shortest one out of those two. 
