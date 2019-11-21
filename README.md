@@ -1,5 +1,5 @@
 # checkout-lines
-In order to run this project you will need java installed. Please use the command javac *.java to compile all of the classes. Then to run the program, use the command "java MixedSimulations". This will run the simulation for all of the different checkout lines, and will display the stats for each type of check-out line in the terminal. If you would like to run the simulation for each type of customer, use the command "java PickyCustomerSimulation", "java Pick2CustomerSimulation" , "java RandomCustomerSimulation" or "java LargeCustomerSimulation". 
+In order to run this project you will need java installed. Please use the command javac *.java to compile all of the classes. Then to run the program, use the command "java MixedSimulation". This will run the simulation for all of the different checkout lines, and will display the stats for each type of check-out line in the terminal. If you would like to run the simulation for each type of customer, use the command "java PickyCustomerSimulation", "java Pick2CustomerSimulation" , "java RandomCustomerSimulation" or "java LargeCustomerSimulation". 
 
 In this project I used queue implementation to simulate shoppers picking which check-out line to use. 
 In the end, I created 4 types of strategies for selecting a queue. I also used Nodes, Linked Lists, and Array Lists 
