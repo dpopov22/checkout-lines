@@ -1,4 +1,6 @@
 # checkout-lines
+In order to run this project you will need java installed. Please use the command javac*.java to compile all of the classes. Then to run the files 
+
 In this project I used queue implementation to simulate shoppers picking which check-out line to use. 
 In the end, I created 4 types of strategies for selecting a queue. I also used Nodes, Linked Lists, and Array Lists 
 to implement my strategies. One of the strategies was to select the shortest line, which would be optimal but would 
